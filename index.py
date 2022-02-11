@@ -6,3 +6,4 @@ if username == "gabriel" and password == "password":
     print("authenticated")
 print("not authenticated")
 print("exit..")
+print("chicken")
